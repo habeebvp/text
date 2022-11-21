@@ -1,0 +1,61 @@
+*
+{
+    margin: 0px;
+}
+.HEADING
+{
+    margin-left: 200px;
+}  
+.LOGO > IMG 
+{
+    height: 200PX;
+}
+.HEAD
+{
+        margin-left: 200px;
+        margin-top: -90px;
+}
+.MENU
+{
+    margin-left: 150px;
+}
+ul
+{
+    margin-top: 50px;
+    list-style-type: none;
+}    
+li
+{
+    display: inline;
+    margin-right: 100px;
+}
+.ADDRESS
+{
+    background-color: aqua;
+    margin-left: 100px;
+    margin: top 50px; ;
+}
+.FOOTER
+{
+    margin-top: 100px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.COURSE
+{
+    margin-left: 500+px;
+
+}
+table
+{
+    width: 300px;
+}
+th,td
+{
+    border: solid;
+}
+.WWW
+{
+    margin-left: 190px;
+    width: 50px;
+}
